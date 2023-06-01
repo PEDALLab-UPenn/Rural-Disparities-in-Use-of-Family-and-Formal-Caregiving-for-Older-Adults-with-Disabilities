@@ -1,3 +1,5 @@
+**README file for posted estimation files**
+
 **"Rural Disparities in Use of Family and Formal Caregiving for Older Adults with Disabilities"**
 
 by Katherine E. M. Miller, Katherine Ornstein, and Norma B. Coe
