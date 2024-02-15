@@ -1,9 +1,6 @@
-# Rural-Disparities-in-Use-of-Family-and-Formal-Caregiving-for-Older-Adults-with-Disabilities
+Using the Health and Retirement Study, we describe patterns in receipt of combinations of formal and family home care and self-reported expectation of nursing home use by rurality among community-dwelling adults aged 65+ with functional limitations from 2004 to 2016. Older adults residing in rural areas are more likely to receive any family care than those in urban areas. From 2004 to 2016, a higher proportion of older adults in rural areas receive care from family caregivers exclusively while a lower proportion receive care from formal caregivers exclusively. When examining older adults in urban areas, we find the opposite — a higher proportion of urban adults rely exclusively on formal care and a lower proportion rely exclusively on family care in 2016 compared to 2004.
 
-***Please find the article using link:
+We find that national estimates of sources of caregiving and their changes over time mask significant heterogeneity in uptake by rurality. Understanding how older adults in rural areas are, or are not, receiving home-based care compared to their urban peers and how these patterns are changing over time is the first step to informing supports for family and formal caregivers.
 
-https://doi.org/10.1111/jgs.18376
-
-***Please cite the article as:
-
+Please cite as:
 Miller KEM, Ornstein KA, Coe NB. Rural disparities in use of family and formal caregiving for older adults with disabilities. J Am Geriatr Soc. 2023 Apr 20. doi: 10.1111/jgs.18376. Epub ahead of print. PMID: 37081828.
